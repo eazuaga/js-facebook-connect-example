@@ -1,0 +1,12 @@
+c:\users\eduardo.azuaga\documents\visual studio 2013\Projects\faceconnrct\faceconnrct\bin\faceconnrct.dll.config
+c:\users\eduardo.azuaga\documents\visual studio 2013\Projects\faceconnrct\faceconnrct\bin\faceconnrct.dll
+c:\users\eduardo.azuaga\documents\visual studio 2013\Projects\faceconnrct\faceconnrct\bin\faceconnrct.pdb
+c:\users\eduardo.azuaga\documents\visual studio 2013\Projects\faceconnrct\faceconnrct\obj\Debug\faceconnrct.csprojResolveAssemblyReference.cache
+c:\users\eduardo.azuaga\documents\visual studio 2013\Projects\faceconnrct\faceconnrct\obj\Debug\faceconnrct.dll
+c:\users\eduardo.azuaga\documents\visual studio 2013\Projects\faceconnrct\faceconnrct\obj\Debug\faceconnrct.pdb
+D:\downloads\back\proyectos visual studio 2013\faceconnrct\faceconnrct\bin\faceconnrct.dll.config
+D:\downloads\back\proyectos visual studio 2013\faceconnrct\faceconnrct\bin\faceconnrct.dll
+D:\downloads\back\proyectos visual studio 2013\faceconnrct\faceconnrct\bin\faceconnrct.pdb
+D:\downloads\back\proyectos visual studio 2013\faceconnrct\faceconnrct\obj\Debug\faceconnrct.csprojResolveAssemblyReference.cache
+D:\downloads\back\proyectos visual studio 2013\faceconnrct\faceconnrct\obj\Debug\faceconnrct.dll
+D:\downloads\back\proyectos visual studio 2013\faceconnrct\faceconnrct\obj\Debug\faceconnrct.pdb
